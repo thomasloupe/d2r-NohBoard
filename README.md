@@ -2,7 +2,7 @@
 A NohBoard config for Diablo II Resurrected
 
 ## Installation
-Drag and drop the d2r_acid_rain.kb file into the NohBoard directory.
+Drag and drop the acid_rain folder into the `NohBoard/keyboards/` directory.
 
 ## Use
 Run NohBoard, add a new window capture for OBS or SLOBS, and select NohBoard.
